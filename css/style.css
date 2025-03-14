@@ -1,0 +1,10 @@
+table{
+    border: solid rgb(0, 0, 0) 1px;
+    padding: 1px;
+   }
+   
+   
+   tr, td{
+       border:  solid rgb(45, 171, 230) 1px;
+       vertical-align: middle;
+   }
